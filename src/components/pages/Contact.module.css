@@ -1,0 +1,10 @@
+.contact {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact h1 {
+  color: #e6e6e6;
+}

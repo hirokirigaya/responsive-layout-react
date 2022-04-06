@@ -1,0 +1,10 @@
+.products {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.products h1 {
+  color: #e6e6e6;
+}
